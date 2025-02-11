@@ -1,0 +1,4 @@
+User-agent: *
+allow: /
+
+Sitemap: http://aguinoo1.dmitstudent.ca/EdmontonKetchupCompany//sitemap.xml
